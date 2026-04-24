@@ -1,0 +1,30 @@
+{
+  "name": "Linh",
+  "profession": "software engineer",
+  "allergy": "soy",
+  "hobby": "playing guitar",
+  "interests": [
+    "Docker",
+    "guitar practice"
+  ],
+  "activities": [
+    "coding",
+    "unwinding after a long day"
+  ],
+  "reason_for_hobby": "relaxation and creative expression",
+  "activity_context": "relaxing indoors",
+  "city": "Hanoi",
+  "location": "Ho Chi Minh City",
+  "occupation": "software engineer",
+  "previous_location": "Hanoi",
+  "project": "LangGraph",
+  "architecture": "multi-memory stack",
+  "framework": "LangGraph",
+  "favorite_color": "emerald green",
+  "activity": "running",
+  "weather_preference": "prepared for unexpected rain",
+  "skills": [
+    "debugging Docker services"
+  ],
+  "current focus": "application development"
+}
