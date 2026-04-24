@@ -36,5 +36,6 @@
   "preference": "indoor relaxation",
   "prepared_for": "unexpected rain",
   "current_job": "carpenter",
-  "relaxation_preference": "indoors"
+  "relaxation_preference": "indoors",
+  "prepared_for_rain": true
 }

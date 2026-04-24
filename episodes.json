@@ -256,5 +256,27 @@
     "extracted": {
       "name": "Mr. Smith"
     }
+  },
+  {
+    "user": "",
+    "ai": "You are Mr. Smith, a software engineer who currently works as a carpenter. You live in Ho Chi Minh City but previously resided in Hanoi. You have a passion for playing guitar and enjoy running as hobbies. You prefer to relax indoors, especially after a long day of work, and you're particularly interested in topics like Docker and debugging Docker services. You're also prepared for unexpected rain and have an affinity for the color emerald green. If you have any more specific questions or need assistance, feel free to ask!",
+    "extracted": {
+      "name": "Mr. Smith",
+      "profession": "software engineer",
+      "current_job": "carpenter",
+      "location": "Ho Chi Minh City",
+      "previous_location": "Hanoi",
+      "hobbies": [
+        "playing guitar",
+        "running"
+      ],
+      "relaxation_preference": "indoors",
+      "interests": [
+        "Docker",
+        "debugging Docker services"
+      ],
+      "prepared_for_rain": true,
+      "favorite_color": "emerald green"
+    }
   }
 ]
