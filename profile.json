@@ -1,11 +1,11 @@
 {
-  "name": "Linh",
+  "name": "Mr. Smith",
   "profession": "software engineer",
   "allergy": "soy",
   "hobby": "playing guitar",
   "interests": [
     "Docker",
-    "guitar practice"
+    "debugging Docker services"
   ],
   "activities": [
     "coding",
@@ -15,7 +15,7 @@
   "activity_context": "relaxing indoors",
   "city": "Hanoi",
   "location": "Ho Chi Minh City",
-  "occupation": "software engineer",
+  "occupation": "carpenter",
   "previous_location": "Hanoi",
   "project": "LangGraph",
   "architecture": "multi-memory stack",
@@ -26,5 +26,15 @@
   "skills": [
     "debugging Docker services"
   ],
-  "current focus": "application development"
+  "current focus": "application development",
+  "focus": "application development",
+  "current_location": "Ho Chi Minh City",
+  "hobbies": [
+    "playing guitar",
+    "running"
+  ],
+  "preference": "indoor relaxation",
+  "prepared_for": "unexpected rain",
+  "current_job": "carpenter",
+  "relaxation_preference": "indoors"
 }

@@ -14,7 +14,7 @@ class MemoryState(TypedDict):
     user_profile: Dict[str, Any]
     episodes: List[Dict[str, Any]]
     semantic_hits: List[str]
-    next_action: str
+    memory_budget: int # Added to match rubric
 
 # 2. Initialize Memory and LLM
 memory_stack = MultiMemoryStack()

@@ -155,5 +155,106 @@
       ],
       "current focus": "application development"
     }
+  },
+  {
+    "user": "",
+    "ai": "Hi Nam! Nice to meet you! Though I see your profile reflects the name Linh. Is there a reason you're using a different name today? Let me know how I can assist you!",
+    "extracted": {
+      "name": "Nam"
+    }
+  },
+  {
+    "user": "",
+    "ai": "That's great, Nam! As a software engineer, you must have a lot of interesting projects and challenges. I see you\u2019re currently focusing on application development with the LangGraph framework. Is there a specific aspect of your project or any particular challenges you're facing that you'd like to discuss? Also, how do you like to unwind after a long day of coding?",
+    "extracted": {
+      "name": "Nam",
+      "occupation": "software engineer",
+      "focus": "application development",
+      "framework": "LangGraph"
+    }
+  },
+  {
+    "user": "",
+    "ai": "Sure! You're Nam, a software engineer currently focusing on application development with the LangGraph framework. You live in Ho Chi Minh City and previously resided in Hanoi. You enjoy playing guitar for relaxation and creative expression and like to unwind indoors after a long day of coding. You have an interest in Docker and enjoy debugging Docker services. Additionally, you have a fondness for running and prefer to be prepared for unexpected rain. If there's anything specific you'd like to know or discuss, just let me know!",
+    "extracted": {
+      "name": "Nam",
+      "profession": "software engineer",
+      "focus": "application development",
+      "framework": "LangGraph",
+      "current_location": "Ho Chi Minh City",
+      "previous_location": "Hanoi",
+      "hobbies": [
+        "playing guitar",
+        "running"
+      ],
+      "interests": [
+        "Docker",
+        "debugging Docker services"
+      ],
+      "preference": "indoor relaxation",
+      "prepared_for": "unexpected rain"
+    }
+  },
+  {
+    "user": "",
+    "ai": "You are Nam, a software engineer currently focused on application development with the LangGraph framework. You live in Ho Chi Minh City but previously resided in Hanoi. You enjoy playing guitar as a form of relaxation and creative expression and like to unwind indoors after a long day of coding. Additionally, you have a keen interest in Docker and are skilled at debugging Docker services. You also enjoy running and prefer to be prepared for unexpected rain. If there's anything specific you'd like to discuss or know more about, feel free to ask!",
+    "extracted": {
+      "name": "Nam",
+      "profession": "software engineer",
+      "focus": "application development",
+      "framework": "LangGraph",
+      "current_location": "Ho Chi Minh City",
+      "previous_location": "Hanoi",
+      "hobbies": [
+        "playing guitar",
+        "running"
+      ],
+      "interests": [
+        "Docker",
+        "debugging Docker services"
+      ],
+      "preference": "indoor relaxation"
+    }
+  },
+  {
+    "user": "",
+    "ai": "Got it! From now on, I'll refer to you as Mr. Smith. If there's anything else you'd like to update or discuss, just let me know!",
+    "extracted": {
+      "name": "Mr. Smith"
+    }
+  },
+  {
+    "user": "",
+    "ai": "Thank you for the update, Mr. Smith! I will adjust your profile to reflect that you are now working as a carpenter. If there are any other changes or information you\u2019d like to share, just let me know!",
+    "extracted": {
+      "occupation": "carpenter"
+    }
+  },
+  {
+    "user": "",
+    "ai": "B\u1ea1n l\u00e0 Mr. Smith, m\u1ed9t k\u1ef9 s\u01b0 ph\u1ea7n m\u1ec1m hi\u1ec7n t\u1ea1i \u0111ang l\u00e0m ngh\u1ec1 th\u1ee3 m\u1ed9c. B\u1ea1n c\u01b0 tr\u00fa t\u1ea1i Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh sau khi t\u1eebng s\u1ed1ng \u1edf H\u00e0 N\u1ed9i. B\u1ea1n c\u00f3 s\u1edf th\u00edch ch\u01a1i guitar v\u00e0 ch\u1ea1y b\u1ed9, v\u00e0 b\u1ea1n th\u00edch th\u01b0 gi\u00e3n trong nh\u00e0, \u0111\u1eb7c bi\u1ec7t l\u00e0 sau m\u1ed9t ng\u00e0y d\u00e0i l\u00e0m vi\u1ec7c. B\u1ea1n c\u0169ng r\u1ea5t quan t\u00e2m \u0111\u1ebfn Docker v\u00e0 vi\u1ec7c g\u1ee1 l\u1ed7i c\u00e1c d\u1ecbch v\u1ee5 Docker. N\u1ebfu b\u1ea1n c\u1ea7n th\u00f4ng tin g\u00ec th\u00eam ho\u1eb7c mu\u1ed1n c\u1eadp nh\u1eadt m\u00e0n h\u00ecnh c\u1ee7a m\u00ecnh, h\u00e3y cho t\u00f4i bi\u1ebft!",
+    "extracted": {
+      "name": "Mr. Smith",
+      "profession": "software engineer",
+      "current_job": "carpenter",
+      "location": "Ho Chi Minh City",
+      "previous_location": "Hanoi",
+      "hobbies": [
+        "playing guitar",
+        "running"
+      ],
+      "relaxation_preference": "indoors",
+      "interests": [
+        "Docker",
+        "debugging Docker services"
+      ]
+    }
+  },
+  {
+    "user": "",
+    "ai": "In our memory, there are no other users besides you, Mr. Smith. All the information captured is specifically about you and your preferences. If you have any more questions or need assistance with something specific, feel free to ask!",
+    "extracted": {
+      "name": "Mr. Smith"
+    }
   }
 ]
